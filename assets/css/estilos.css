@@ -11,6 +11,12 @@ body {
   background-position: left;
 }
 
+/* Acerca de mi */
+
+.col-12 { 
+  padding: 50px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
